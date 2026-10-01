@@ -1,0 +1,40 @@
+ XEN WORKSHOP 5.0
+Organized by IoT Club, VIT Pune
+
+Get ready to explore the world of Embedded Systems, IoT, and next-generation development boards with XEN Workshop 5.0!
+
+📅 9 & 10 October 2026
+
+(DAY 1) — 9 OCTOBER | 3:00 PM – 6:00 PM
+
+🔹 Introduction to the IoT Club
+Discover the club, its activities, projects, opportunities, and the exciting world of IoT.
+
+🔹 Arduino & Embedded Systems Session
+Learn the fundamentals of Arduino, microcontrollers, sensors, interfacing, and how embedded systems bring ideas to life.
+
+🔹 Special Guest Session
+Gain valuable insights, experiences, and industry perspectives through an interactive session with our invited guest.
+
+(DAY 2) — 10 OCTOBER | 2:00 PM – 6:00 PM
+
+🔹 NodeMCU & Internet of Things
+Explore Wi-Fi-enabled development using NodeMCU and understand how devices communicate through IoT.
+
+🔹 ESP32 Hands-On Session
+Dive into one of the most powerful and widely used microcontrollers for modern IoT applications.
+
+🔹 Beyond Microcontrollers
+Get introduced to powerful platforms shaping the future of embedded systems, robotics, AI, and edge computing:
+
+⚙️ Raspberry Pi
+⚙️ STM32
+⚙️ NVIDIA Jetson Nano
+
+Whether you're taking your first step into electronics or looking to expand your knowledge of IoT and embedded technologies, XEN Workshop 5.0 is designed to take you from the fundamentals to advanced platforms.
+
+💡 Learn. Build. Connect. Innovate.
+
+Two days. Multiple technologies. Endless possibilities.
+
+XEN WORKSHOP 5.0 — Where Hardware Meets Innovation. 🚀

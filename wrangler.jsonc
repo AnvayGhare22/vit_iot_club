@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "iotclub",
+  "compatibility_date": "2026-09-08",
+  "assets": {
+    "directory": "./out"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
